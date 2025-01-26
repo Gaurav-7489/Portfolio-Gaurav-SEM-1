@@ -1,7 +1,7 @@
 # Portfolio-Gaurav-SEM-1
 My First Semester Static and Responsive Web Page-Portfolio
 
-<h1>Portfolio - Gaurav
+<h1>Portfolio - 
 Gaurav Bhardwaj's Portfolio</h1>
 
 
